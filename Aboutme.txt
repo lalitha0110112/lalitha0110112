@@ -1,0 +1,6 @@
+Lalithanand
+3rd Bca 2
+Open Source Community and Contributions:
+GitHub is home to a vast open-source community, fostering collaboration, knowledge sharing, and opportunities to contribute to or learn from a wide array of projects.
+Integration with CI/CD Tools:
+GitHub integrates well with Continuous Integration/Continuous Delivery (CI/CD) tools, including GitHub Actions, to automate testing, building, and deployment workflows.
